@@ -1,0 +1,23 @@
+{
+  "name": "async.js",
+  "version": "1.0.0",
+  "description": "Generator runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiosame/async.js.git"
+  },
+  "keywords": [
+    "async",
+    "generator"
+  ],
+  "author": "Hiroki Osame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiosame/async.js/issues"
+  },
+  "homepage": "https://github.com/hirokiosame/async.js#readme"
+}
