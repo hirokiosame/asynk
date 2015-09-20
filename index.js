@@ -1,4 +1,4 @@
-export default function async(generatorFunction) {
+export default function asynk(generatorFunction) {
 	let generatorItr = this::generatorFunction(
 		function resume(...args) {
 			setImmediate(() => generatorItr.next(args) );

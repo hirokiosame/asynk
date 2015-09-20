@@ -1,5 +1,5 @@
 {
-  "name": "async.js",
+  "name": "asynk",
   "version": "1.0.0",
   "description": "Generator runner",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hirokiosame/async.js.git"
+    "url": "git+https://github.com/hirokiosame/asynk.git"
   },
   "keywords": [
     "async",
@@ -17,7 +17,7 @@
   "author": "Hiroki Osame",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hirokiosame/async.js/issues"
+    "url": "https://github.com/hirokiosame/asynk/issues"
   },
-  "homepage": "https://github.com/hirokiosame/async.js#readme"
+  "homepage": "https://github.com/hirokiosame/asynk#readme"
 }
